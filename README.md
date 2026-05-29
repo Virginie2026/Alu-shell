@@ -1,1 +1,1 @@
-ALU Shell projects
+Project alu-shell - Permissions
