@@ -1,0 +1,1 @@
+find . -type d -exec chmod a+x {} \; +x 11-directories_permissions
