@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n 2 extra_ia | tail -n 1
